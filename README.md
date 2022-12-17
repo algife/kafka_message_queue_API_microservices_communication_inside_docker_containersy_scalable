@@ -1,0 +1,1 @@
+> This is a simple demo project that implements a Message Queue with Apache Kafka to interact (pub-sub) between a mongoDB database (non-relational) and a postgresql (relational) database exchanging messages between them in a pub-sub event-driven architecture.
